@@ -88,7 +88,7 @@ body {
 }
 
 #img1 {
-    width: 250px;
+    width: 225px;
     height: 35px;
     text-align: center;
     padding-top: 5px;
@@ -109,6 +109,10 @@ body {
     }
 
     .pic2, .pic4 {
+        margin-top: 25px;
+    }
+
+    #mediamargin {
         margin-top: 25px;
     }
 }
