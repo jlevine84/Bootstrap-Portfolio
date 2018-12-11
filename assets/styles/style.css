@@ -116,4 +116,19 @@ body {
     #mediamargin {
         margin-top: 25px;
     }
+
+    .heading {
+        text-align: center;
+    }
+
+    .bio {
+        position: relative;
+        left: 30px;
+        margin-bottom: 25px;
+    }
+
+    .smblock {
+        position: relative;
+        left: 35px;
+    }
 }
